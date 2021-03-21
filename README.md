@@ -8,9 +8,9 @@ I collaborate with senior content developers, software developers, and product m
 
 The following list summarizes my projects as a technical writer since November 2018:
 
-- Completed a project to review articles and templates that are used to deploy 80 Azure services. I
-  copyedited the [ARM template quickstart](https://docs.microsoft.com/azure/azure-resource-manager/templates/)
-  articles to comply with style guidelines and updated the [ARM quickstart templates](https://github.com/davidsmatlak/azure-quickstart-templates/commits?author=davidsmatlak)
+- Completed a project to copyedit and review ARM template quickstart articles and review JSON
+  templates that are used to deploy 80 Azure services. I updated [Samples - Azure services](https://docs.microsoft.com/azure/azure-resource-manager/templates/)
+  articles to comply with style guidelines and updated [ARM quickstart templates](https://github.com/davidsmatlak/azure-quickstart-templates/commits?author=davidsmatlak)
   using best practices guidance.
 - Convert Word documents to Markdown to prepare content for publication.
 - Resolve GitHub issues submitted by the ARM community.
@@ -26,7 +26,7 @@ deploy Azure resources with Azure PowerShell, Azure CLI, and ARM templates.
 
 - :hammer_and_wrench: Continue to learn about ARM templates using JSON and Bicep, Azure CLI, and
   PowerShell.
-- :books: Study and pass the certification exam for [Azure Fundamentals](https://docs.microsoft.com/learn/certifications/azure-fundamentals/).
+- :books: Study and pass the certification exam for [Azure Fundamentals](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
 
 ## Writing samples
 
