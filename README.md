@@ -26,7 +26,11 @@ deploy Azure resources with Azure PowerShell, Azure CLI, and ARM templates.
 
 - :hammer_and_wrench: Continue to learn about ARM templates using JSON and Bicep, Azure CLI, and
   PowerShell.
-- :books: Study and pass the certification exam for [Azure Fundamentals](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
+- :books: Learn more about how to use HTML, CSS, and JavaScript for documentation projects.
+
+## Certification
+
+[Microsoft Azure Fundamentals](https://docs.microsoft.com/learn/certifications/azure-fundamentals)
 
 ## Writing samples
 
