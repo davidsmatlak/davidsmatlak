@@ -8,8 +8,9 @@ I collaborate with senior content developers, software developers, and product m
 
 The following list summarizes my projects as a technical writer since November 2018:
 
-- Participated in the successful release of Bicep documentation. Tasks included writing Bicep code
-  samples, updates of existing Bicep documentation, content migration, and copyedits.
+- Participated in the successful release of [Bicep](https://docs.microsoft.com/azure/azure-resource-manager/bicep)
+  documentation. Tasks included writing Bicep code samples, updates of existing Bicep documentation,
+  content migration, and copyedits.
 - Completed a project to copyedit and review ARM template quickstart articles and review JSON
   templates that are used to deploy 80 Azure services. I updated [Samples - Azure services](https://docs.microsoft.com/azure/azure-resource-manager/templates/)
   articles to comply with style guidelines and updated [ARM quickstart templates](https://github.com/davidsmatlak/azure-quickstart-templates/commits?author=davidsmatlak)
